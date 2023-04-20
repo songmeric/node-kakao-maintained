@@ -1,7 +1,7 @@
 {
-  "name": "node-kakao",
-  "version": "4.5.0",
-  "description": "Loco protocol compatible library",
+  "name": "node-kakao-maintained",
+  "version": "1.1.0",
+  "description": "Loco protocol compatible library, maintained",
   "main": "./dist/index.js",
   "exports": {
     ".": "./dist/index.js",
