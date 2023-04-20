@@ -4,6 +4,8 @@
  * Copyright (c) storycraft. Licensed under the MIT Licence.
  */
 
+//first commit!
+
 export const DefaultConfiguration: OAuthLoginConfig & ClientConfig = {
 
   locoBookingHost: 'booking-loco.kakao.com',
